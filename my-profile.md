@@ -38,6 +38,7 @@ author
 
 ![](http://images.miil.me/i/ef956122-543e-11e5-ae4c-22000ab99666.jpg){:relative_height='100'}
 
+{::note}http://miil.me/g/6gwf0{:/note}
 
 # 簡単にはじめられます
 
@@ -107,3 +108,5 @@ author
 # 山、たのしいよ
 
 ![](images/risu.jpg){:relative_height='100'}
+
+{::note}https://www.flickr.com/photos/irasally/21591737686/{:/note}
