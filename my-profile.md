@@ -14,11 +14,13 @@ author
 * Ruby, Java, C#
 * Emacs{::note}（を使いこなしたい）{:/note}派
 * 食, 酒, 写真, *山登り*
-* 新婚（2015.11まで）
+* 新婚{::note}（と呼べるのは2015.11まで）{:/note}
 
 # 山はよいものです
 
 ![](https://c2.staticflickr.com/6/5798/21591737686_e0cc517065_c.jpg){:relative_height='100'}
+
+{::note}https://www.flickr.com/photos/irasally/21591737686/{:/note}
 
 # 山のよさ
 
@@ -104,4 +106,4 @@ author
 
 # 山、たのしいよ
 
-![](images/risu.jpg){:relative_height='110'}
+![](images/risu.jpg){:relative_height='100'}
